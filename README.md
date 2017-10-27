@@ -7,3 +7,8 @@ with rating tuples of the form (userid, politicalentityid, sentiment)
 politcal groups, analyze distribution of sentiment for political vs. non-political entities.
 * Also retrieved averaged word vectors of comments to perform similarity based clustering  of users based on comments
 
+Results drove me to the following conclusions
+--> Political entities are significantly more polarized in sentiment than non-political entities
+--> People were more controversial than organizations, but this could be because organizations weren't identified properly
+--> users clustered into clear groups, but clustering only good at high-level, could not pick out smaller subgroups. 
+
