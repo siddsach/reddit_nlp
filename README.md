@@ -9,6 +9,8 @@ politcal groups, analyze distribution of sentiment for political vs. non-politic
 
 Results drove me to the following conclusions
 --> Political entities are significantly more polarized in sentiment than non-political entities
+
 --> People were more controversial than organizations, but this could be because organizations weren't identified properly
+
 --> users clustered into clear groups, but clustering only good at high-level, could not pick out smaller subgroups. 
 
