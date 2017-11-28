@@ -18,7 +18,7 @@ politcal groups, analyze distribution of sentiment for political vs. non-politic
 * Also retrieved averaged word vectors of comments to perform similarity based clustering  of users based on comments
 
 ## Results
-* Ran job on cluster of 8 cores using mapreduce Google Cloud Platform
+* Ran job on cluster of 8 cores using MapReduce on Google Cloud Platform
 * Political entities are significantly more polarized in sentiment (std. dev. = 0.12) than non-political entities (std. dev. = 0.7)
 * sentiment data made users cluster into clear groups, but clustering only good at high-level, could not pick out smaller subgroups. 
 * similarity clustering was fairly random
